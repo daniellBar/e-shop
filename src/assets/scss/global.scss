@@ -1,0 +1,14 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/functions.scss";
+@import "setup/typography.scss";
+
+@import "basics/base.scss";
+@import "basics/helpers.scss";
+
+@import "views/_home.scss";
+@import "views/_product_details.scss";
+
+@import "components/_main_header.scss";
+@import "components/_variant_form.scss";
+

@@ -1,0 +1,1569 @@
+{
+    "products": [
+        {
+            "id": "610fc80df79efd1499573cea",
+            "product_type": "OTHER",
+            "title": "Men's Outdoor Casual Pants",
+            "images": [
+                {
+                    "title": "black.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720328/clothing_shop/black_z3fpbw.webp"
+                },
+                {
+                    "title": "light_gray.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720329/clothing_shop/light_gray_zeqdpg.webp"
+                },
+                {
+                    "title": "dark_gray.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720328/clothing_shop/dark_gray_iz9475.webp"
+                },
+                {
+                    "title": "white.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720329/clothing_shop/white_im4ppe.webp"
+                },
+                {
+                    "title": "red.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720329/clothing_shop/red_l2dtys.webp"
+                }
+            ],
+            "description": "Men's Simple Outdoor Casual Pants Solid Colored Full Length White Black Red Light gray Dark Gray.",
+            "min_price": "30",
+            "max_price": "35",
+            "variants": [
+                {
+                    "id": "33",
+                    "title": "Men's Outdoor Casual Pants 40W & 38L Black",
+                    "image": {
+                        "title": "black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720328/clothing_shop/black_z3fpbw.webp"
+                    },
+                    "price": "30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "11"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "16"
+                        }
+                    ]
+                },
+                {
+                    "id": "34",
+                    "title": "Men's Outdoor Casual Pants 38W & 40L Black",
+                    "image": {
+                        "title": "black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720328/clothing_shop/black_z3fpbw.webp"
+                    },
+                    "price": "30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "10"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "17"
+                        }
+                    ]
+                },
+                {
+                    "id": "35",
+                    "title": "Men's Outdoor Casual Pants 30W & 32L Dark Gray",
+                    "image": {
+                        "title": "dark_gray.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720328/clothing_shop/dark_gray_iz9475.webp"
+                    },
+                    "price": "30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "6"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "13"
+                        }
+                    ]
+                },
+                {
+                    "id": "36",
+                    "title": "Men's Outdoor Casual Pants 30W & 38L Dark Gray",
+                    "image": {
+                        "title": "dark_gray.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720328/clothing_shop/dark_gray_iz9475.webp"
+                    },
+                    "price": "30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "6"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "16"
+                        }
+                    ]
+                },
+                {
+                    "id": "37",
+                    "title": "Men's Outdoor Casual Pants 42W & 42L Light Gray",
+                    "image": {
+                        "title": "light_gray.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720329/clothing_shop/light_gray_zeqdpg.webp"
+                    },
+                    "price": "30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "12"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "18"
+                        }
+                    ]
+                },
+                {
+                    "id": "38",
+                    "title": "Men's Outdoor Casual Pants 30W & 38L White",
+                    "image": {
+                        "title": "white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720329/clothing_shop/white_im4ppe.webp"
+                    },
+                    "price": "30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "6"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "16"
+                        }
+                    ]
+                },
+                {
+                    "id": "39",
+                    "title": "Men's Outdoor Casual Pants 40W & 38L White",
+                    "image": {
+                        "title": "white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720329/clothing_shop/white_im4ppe.webp"
+                    },
+                    "price": "30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "11"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "16"
+                        }
+                    ]
+                },
+                {
+                    "id": "40",
+                    "title": "Men's Outdoor Casual Pants 40W & 38L Red",
+                    "image": {
+                        "title": "red.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624720329/clothing_shop/red_l2dtys.webp"
+                    },
+                    "price": "35",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "5"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "11"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "16"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "id": "1",
+                    "title": "Color",
+                    "type": "COLOR",
+                    "labels": [
+                        {
+                            "id": "1",
+                            "title": "Black",
+                            "data": "black"
+                        },
+                        {
+                            "id": "2",
+                            "title": "Dark Gray",
+                            "data": "dark_gray"
+                        },
+                        {
+                            "id": "3",
+                            "title": "Light Gray",
+                            "data": "light_gray"
+                        },
+                        {
+                            "id": "4",
+                            "title": "White",
+                            "data": "white"
+                        },
+                        {
+                            "id": "5",
+                            "title": "Red",
+                            "data": "red"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "title": "Waist Size",
+                    "type": "TEXT",
+                    "labels": [
+                        {
+                            "id": "6",
+                            "title": "30",
+                            "data": "30"
+                        },
+                        {
+                            "id": "10",
+                            "title": "38",
+                            "data": "38"
+                        },
+                        {
+                            "id": "11",
+                            "title": "40",
+                            "data": "40"
+                        },
+                        {
+                            "id": "12",
+                            "title": "42",
+                            "data": "42"
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "title": "Leg Size",
+                    "type": "TEXT",
+                    "labels": [
+                        {
+                            "id": "13",
+                            "title": "32",
+                            "data": "32"
+                        },
+                        {
+                            "id": "17",
+                            "title": "40",
+                            "data": "40"
+                        },
+                        {
+                            "id": "16",
+                            "title": "38",
+                            "data": "38"
+                        },
+                        {
+                            "id": "18",
+                            "title": "42",
+                            "data": "42"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "610fc816799ebc3db80cf4a1",
+            "product_type": "OTHER",
+            "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt",
+            "images": [
+                {
+                    "title": "navy_blazer.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723302/clothing_shop/39129f_poef5x.jpg"
+                },
+                {
+                    "title": "deep_lichen_green.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723302/clothing_shop/39130a_lompgr.jpg"
+                },
+                {
+                    "title": "white.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723303/clothing_shop/39131f_knol5c.jpg"
+                }
+            ],
+            "description": "The Core Shawn Graphic Slim T-Shirt from Jack & Jones comes in Deep Lichen Green colour, featuring a printed branding on front and organic cotton. Coming with a straight hem, this t-shirt features a crew neck and short sleeves",
+            "min_price": "10.95",
+            "max_price": "10.95",
+            "variants": [
+                {
+                    "id": "99",
+                    "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt - Color: Navy Blazer 'S'",
+                    "image": {
+                        "title": "navy_blazer.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723302/clothing_shop/39129f_poef5x.jpg"
+                    },
+                    "price": "10.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "98",
+                    "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt - Color: Navy Blazer 'M'",
+                    "image": {
+                        "title": "navy_blazer.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723302/clothing_shop/39129f_poef5x.jpg"
+                    },
+                    "price": "10.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "97",
+                    "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt - Color: Navy Blazer 'L'",
+                    "image": {
+                        "title": "navy_blazer.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723302/clothing_shop/39129f_poef5x.jpg"
+                    },
+                    "price": "10.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "96",
+                    "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt - Color: Deep Lichen Green 'L'",
+                    "image": {
+                        "title": "deep_lichen_green.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723302/clothing_shop/39130a_lompgr.jpg"
+                    },
+                    "price": "10.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "95",
+                    "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt - Color: Deep Lichen Green 'XL'",
+                    "image": {
+                        "title": "deep_Lichen_green.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723302/clothing_shop/39130a_lompgr.jpg"
+                    },
+                    "price": "10.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "94",
+                    "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt - Color: Deep Lichen White 'XL'",
+                    "image": {
+                        "title": "white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723303/clothing_shop/39131f_knol5c.jpg"
+                    },
+                    "price": "10.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "93",
+                    "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt - Color: Deep Lichen White 'L'",
+                    "image": {
+                        "title": "white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723303/clothing_shop/39131f_knol5c.jpg"
+                    },
+                    "price": "10.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "92",
+                    "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt - Color: Deep Lichen White 'M'",
+                    "image": {
+                        "title": "white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723303/clothing_shop/39131f_knol5c.jpg"
+                    },
+                    "price": "10.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "91",
+                    "title": "Jack & Jones Core Shawn Graphic Slim T-Shirt - Color: Deep Lichen White 'S'",
+                    "image": {
+                        "title": "white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1624723303/clothing_shop/39131f_knol5c.jpg"
+                    },
+                    "price": "10.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "id": "1",
+                    "title": "Color",
+                    "type": "COLOR",
+                    "labels": [
+                        {
+                            "id": "1",
+                            "title": "Navy Blazer",
+                            "data": "navy_blazer"
+                        },
+                        {
+                            "id": "2",
+                            "title": "Deep Lichen Green",
+                            "data": "deep_lichen_green"
+                        },
+                        {
+                            "id": "3",
+                            "title": "White",
+                            "data": "white"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "title": "Size",
+                    "type": "TEXT",
+                    "labels": [
+                        {
+                            "id": "1",
+                            "title": "S",
+                            "data": "s"
+                        },
+                        {
+                            "id": "2",
+                            "title": "M",
+                            "data": "m"
+                        },
+                        {
+                            "id": "3",
+                            "title": "L",
+                            "data": "l"
+                        },
+                        {
+                            "id": "4",
+                            "title": "XL",
+                            "data": "xl"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "610fc83a32377b39e00a9a2a",
+            "product_type": "OTHER",
+            "title": "Men's Hoodie Animal Patterned 3D",
+            "images": [
+                {
+                    "title": "lion_brown.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650860/clothing_shop/lion_brown_dkgod3.webp"
+                },
+                {
+                    "title": "lion_camel.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650864/clothing_shop/lion_camel_uwrbct.webp"
+                },
+                {
+                    "title": "lion_black.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650868/clothing_shop/lion_black_uyttbt.webp"
+                },
+                {
+                    "title": "jaguar_black.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652521/clothing_shop/jaguar_black_ygz93b.webp"
+                },
+                {
+                    "title": "cheetah_brown.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652574/clothing_shop/cheetah_brown_vuumuo.webp"
+                },
+                {
+                    "title": "tiger_white.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652622/clothing_shop/tiger_zzcgwo.webp"
+                },
+                {
+                    "title": "tiger_black.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652628/clothing_shop/tiger_white_lhyqof.webp"
+                },
+                {
+                    "title": "wolf_white.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652629/clothing_shop/wolf_white_thnshl.webp"
+                },
+                {
+                    "title": "wolf_black.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652629/clothing_shop/wolf_black_ruvt2d.webp"
+                }
+            ],
+            "description": "Men's Hoodie Sweatshirt. Pullover Sweatshirt Optical Illusion. Modern Style Hooded, Party, Daily, Holiday. 3D Print Active Classic & Timeless Hoodies Sweatshirts Long Sleeve.",
+            "min_price": "40",
+            "max_price": "50",
+            "variants": [
+                {
+                    "id": "919",
+                    "title": "Men's Hoodie Animal Patterned 3D - Lion: Color: Brown 'XXL'",
+                    "image": {
+                        "title": "lion_brown.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650860/clothing_shop/lion_brown_dkgod3.webp"
+                    },
+                    "price": "45.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "912a",
+                    "title": "Men's Hoodie Animal Patterned 3D - Lion: Color: Brown 'XL'",
+                    "image": {
+                        "title": "lion_brown.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650860/clothing_shop/lion_brown_dkgod3.webp"
+                    },
+                    "price": "45.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "912b",
+                    "title": "Men's Hoodie Animal Patterned 3D - Lion: Color: Brown '3XL'",
+                    "image": {
+                        "title": "lion_brown.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650860/clothing_shop/lion_brown_dkgod3.webp"
+                    },
+                    "price": "45.95",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "981",
+                    "title": "Men's Hoodie Animal Patterned 3D - Lion: Color: Camel 'L'",
+                    "image": {
+                        "title": "lion_camel.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650864/clothing_shop/lion_camel_uwrbct.webp"
+                    },
+                    "price": "40",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "981a",
+                    "title": "Men's Hoodie Animal Patterned 3D - Lion: Color: Camel 'XL'",
+                    "image": {
+                        "title": "lion_camel.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650864/clothing_shop/lion_camel_uwrbct.webp"
+                    },
+                    "price": "40",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "9qa",
+                    "title": "Men's Hoodie Animal Patterned 3D - Lion: Color: Black 'XL'",
+                    "image": {
+                        "title": "lion_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650868/clothing_shop/lion_black_uyttbt.webp"
+                    },
+                    "price": "50",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "9qa",
+                    "title": "Men's Hoodie Animal Patterned 3D - Lion: Color: Black 'L'",
+                    "image": {
+                        "title": "lion_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627650868/clothing_shop/lion_black_uyttbt.webp"
+                    },
+                    "price": "50",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "9wa",
+                    "title": "Men's Hoodie Animal Patterned 3D - Jaguar: Color: Black 'L'",
+                    "image": {
+                        "title": "jaguar_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652521/clothing_shop/jaguar_black_ygz93b.webp"
+                    },
+                    "price": "50",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "9wa",
+                    "title": "Men's Hoodie Animal Patterned 3D - Jaguar: Color: Black 'XL'",
+                    "image": {
+                        "title": "jaguar_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652521/clothing_shop/jaguar_black_ygz93b.webp"
+                    },
+                    "price": "50",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "9ea",
+                    "title": "Men's Hoodie Animal Patterned 3D - Wolf: Color: Black 'XL'",
+                    "image": {
+                        "title": "wolf_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652629/clothing_shop/wolf_black_ruvt2d.webp"
+                    },
+                    "price": "47.30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "5"
+                        }
+                    ]
+                },
+                {
+                    "id": "9e1a",
+                    "title": "Men's Hoodie Animal Patterned 3D - Wolf: Color: Black 'XXL'",
+                    "image": {
+                        "title": "wolf_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652629/clothing_shop/wolf_black_ruvt2d.webp"
+                    },
+                    "price": "47.30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "5"
+                        }
+                    ]
+                },
+                {
+                    "id": "9e1Xa",
+                    "title": "Men's Hoodie Animal Patterned 3D - Wolf: Color: Black '3XL'",
+                    "image": {
+                        "title": "wolf_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652629/clothing_shop/wolf_black_ruvt2d.webp"
+                    },
+                    "price": "47.30",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "5"
+                        }
+                    ]
+                },
+                {
+                    "id": "9e2Xa",
+                    "title": "Men's Hoodie Animal Patterned 3D - Wolf: Color: White 'XL'",
+                    "image": {
+                        "title": "wolf_white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652629/clothing_shop/wolf_white_thnshl.webp"
+                    },
+                    "price": "44",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "5"
+                        }
+                    ]
+                },
+                {
+                    "id": "9e3Xa",
+                    "title": "Men's Hoodie Animal Patterned 3D - Wolf: Color: White 'XXL'",
+                    "image": {
+                        "title": "wolf_white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652629/clothing_shop/wolf_white_thnshl.webp"
+                    },
+                    "price": "44",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "5"
+                        }
+                    ]
+                },
+                {
+                    "id": "9r",
+                    "title": "Men's Hoodie Animal Patterned 3D - Tiger: Color: Black 'XXL'",
+                    "image": {
+                        "title": "tiger_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652628/clothing_shop/tiger_white_lhyqof.webp"
+                    },
+                    "price": "47",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "9r9",
+                    "title": "Men's Hoodie Animal Patterned 3D - Tiger: Color: Black 'XL'",
+                    "image": {
+                        "title": "tiger_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652628/clothing_shop/tiger_white_lhyqof.webp"
+                    },
+                    "price": "47",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "9r8",
+                    "title": "Men's Hoodie Animal Patterned 3D - Tiger: Color: Black 'L'",
+                    "image": {
+                        "title": "tiger_black.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652628/clothing_shop/tiger_white_lhyqof.webp"
+                    },
+                    "price": "47",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "9r7",
+                    "title": "Men's Hoodie Animal Patterned 3D - Tiger: Color: White 'L'",
+                    "image": {
+                        "title": "tiger_white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652622/clothing_shop/tiger_zzcgwo.webp"
+                    },
+                    "price": "47",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "9r7Z",
+                    "title": "Men's Hoodie Animal Patterned 3D - Tiger: Color: White '3XL'",
+                    "image": {
+                        "title": "tiger_white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652622/clothing_shop/tiger_zzcgwo.webp"
+                    },
+                    "price": "47",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "9r7x",
+                    "title": "Men's Hoodie Animal Patterned 3D - Tiger: Color: White 'XL'",
+                    "image": {
+                        "title": "tiger_white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652622/clothing_shop/tiger_zzcgwo.webp"
+                    },
+                    "price": "47",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "09m",
+                    "title": "Men's Hoodie Animal Patterned 3D - Cheetah: Color: Brown 'XL'",
+                    "image": {
+                        "title": "cheetah_brown.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652574/clothing_shop/cheetah_brown_vuumuo.webp"
+                    },
+                    "price": "41",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "09vm",
+                    "title": "Men's Hoodie Animal Patterned 3D - Cheetah: Color: Brown 'XXL'",
+                    "image": {
+                        "title": "cheetah_brown.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652574/clothing_shop/cheetah_brown_vuumuo.webp"
+                    },
+                    "price": "41",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "09vm",
+                    "title": "Men's Hoodie Animal Patterned 3D - Cheetah: Color: Brown '3XL'",
+                    "image": {
+                        "title": "cheetah_brown.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1627652574/clothing_shop/cheetah_brown_vuumuo.webp"
+                    },
+                    "price": "41",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "4"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "id": "1",
+                    "title": "Color",
+                    "type": "COLOR",
+                    "labels": [
+                        {
+                            "id": "1",
+                            "title": "Brown",
+                            "data": "brown"
+                        },
+                        {
+                            "id": "2",
+                            "title": "Camel",
+                            "data": "camel"
+                        },
+                        {
+                            "id": "3",
+                            "title": "White",
+                            "data": "white"
+                        },
+                        {
+                            "id": "4",
+                            "title": "Black",
+                            "data": "black"
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "title": "Animal",
+                    "type": "TEXT",
+                    "labels": [
+                        {
+                            "id": "1",
+                            "title": "Lion",
+                            "data": "lion"
+                        },
+                        {
+                            "id": "2",
+                            "title": "Tiger",
+                            "data": "tiger"
+                        },
+                        {
+                            "id": "3",
+                            "title": "Jaguar",
+                            "data": "jaguar"
+                        },
+                        {
+                            "id": "4",
+                            "title": "Cheetah",
+                            "data": "cheetah"
+                        },
+                        {
+                            "id": "5",
+                            "title": "Wolf",
+                            "data": "wolf"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "title": "Size",
+                    "type": "TEXT",
+                    "labels": [
+                        {
+                            "id": "1",
+                            "title": "L",
+                            "data": "l"
+                        },
+                        {
+                            "id": "2",
+                            "title": "XL",
+                            "data": "xl"
+                        },
+                        {
+                            "id": "3",
+                            "title": "XXL",
+                            "data": "xxl"
+                        },
+                        {
+                            "id": "4",
+                            "title": "3XL",
+                            "data": "3xl"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "610fc09b799ebc3db80cf4a0",
+            "product_type": "OTHER",
+            "title": "Harry Potter Kids' T-Shirt",
+            "images": [
+                {
+                    "title": "gryffindor_burgundy.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Gryffindor_Kids_T-Shirt_-_Burgundy_12.99_b2bgvs.webp"
+                },
+                {
+                    "title": "hufflepuff_white.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Hufflepuff_Kids_T-Shirt_-_White_oveisi.webp"
+                },
+                {
+                    "title": "slytherin_kelly_green.jpg",
+                    "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Slytherin_Kids_T-Shirt_-_Kelly_Green_12.99_de6wng.webp"
+                }
+            ],
+            "description": "Step into the magical realm with this incredible range of Official Harry Potter merchandise! Do you wish to show your love of your chosen House? Or are your desires geared for power and the Dark Arts? There's something for everyone here, Muggles and magic users alike!",
+            "min_price": "12.99",
+            "max_price": "12.99",
+            "variants": [
+                {
+                    "id": "33",
+                    "title": "Harry Potter Slytherin Kids' T-Shirt - Kelly Green. Size: 3-4 Years",
+                    "image": {
+                        "title": "slytherin_kelly_green.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Slytherin_Kids_T-Shirt_-_Kelly_Green_12.99_de6wng.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "34",
+                    "title": "Harry Potter Slytherin Kids' T-Shirt - Kelly Green. Size: 5-6 Years",
+                    "image": {
+                        "title": "slytherin_kelly_green.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Slytherin_Kids_T-Shirt_-_Kelly_Green_12.99_de6wng.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "35",
+                    "title": "Harry Potter Slytherin Kids' T-Shirt - Kelly Green. Size: 7-8 Years",
+                    "image": {
+                        "title": "slytherin_kelly_green.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Slytherin_Kids_T-Shirt_-_Kelly_Green_12.99_de6wng.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "2"
+                        }
+                    ]
+                },
+                {
+                    "id": "36",
+                    "title": "Harry Potter Hufflepuff Kids' T-Shirt - White. Size: 3-4 Years",
+                    "image": {
+                        "title": "hufflepuff_white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Hufflepuff_Kids_T-Shirt_-_White_oveisi.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "37",
+                    "title": "Harry Potter Hufflepuff Kids' T-Shirt - White. Size: 7-8 Years",
+                    "image": {
+                        "title": "hufflepuff_white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Hufflepuff_Kids_T-Shirt_-_White_oveisi.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "38",
+                    "title": "Harry Potter Hufflepuff Kids' T-Shirt - White. Size: 9-10 Years",
+                    "image": {
+                        "title": "hufflepuff_white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Hufflepuff_Kids_T-Shirt_-_White_oveisi.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "39",
+                    "title": "Harry Potter Hufflepuff Kids' T-Shirt - White. Size: 5-6 Years",
+                    "image": {
+                        "title": "hufflepuff_white.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Hufflepuff_Kids_T-Shirt_-_White_oveisi.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "40",
+                    "title": "Harry Potter Gryffindor Kids' T-Shirt - Burgundy. Size: 3-4 Years",
+                    "image": {
+                        "title": "gryffindor_burgundy.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Gryffindor_Kids_T-Shirt_-_Burgundy_12.99_b2bgvs.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "1"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "41",
+                    "title": "Harry Potter Gryffindor Kids' T-Shirt - Burgundy. Size: 5-6 Years",
+                    "image": {
+                        "title": "gryffindor_burgundy.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Gryffindor_Kids_T-Shirt_-_Burgundy_12.99_b2bgvs.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "2"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "42",
+                    "title": "Harry Potter Gryffindor Kids' T-Shirt - Burgundy. Size: 7-8 Years",
+                    "image": {
+                        "title": "gryffindor_burgundy.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Gryffindor_Kids_T-Shirt_-_Burgundy_12.99_b2bgvs.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "43",
+                    "title": "Harry Potter Gryffindor Kids' T-Shirt - Burgundy. Size: 9-10 Years",
+                    "image": {
+                        "title": "gryffindor_burgundy.jpg",
+                        "url": "https://res.cloudinary.com/dcnijwmki/image/upload/v1628423970/clothing_shop/Harry_Potter_Gryffindor_Kids_T-Shirt_-_Burgundy_12.99_b2bgvs.webp"
+                    },
+                    "price": "12.99",
+                    "labels": [
+                        {
+                            "attribute_id": "1",
+                            "label_id": "3"
+                        },
+                        {
+                            "attribute_id": "2",
+                            "label_id": "4"
+                        },
+                        {
+                            "attribute_id": "3",
+                            "label_id": "3"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "id": "1",
+                    "title": "House",
+                    "type": "TEXT",
+                    "labels": [
+                        {
+                            "id": "1",
+                            "title": "Slytherin",
+                            "data": "slytherin"
+                        },
+                        {
+                            "id": "2",
+                            "title": "Hufflepuff",
+                            "data": "hufflepuff"
+                        },
+                        {
+                            "id": "3",
+                            "title": "Gryffindor",
+                            "data": "gryffindor"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "title": "Size",
+                    "type": "TEXT",
+                    "labels": [
+                        {
+                            "id": "1",
+                            "title": "3-4 Years",
+                            "data": "3-4_years"
+                        },
+                        {
+                            "id": "2",
+                            "title": "5-6 Years",
+                            "data": "5-6_years"
+                        },
+                        {
+                            "id": "3",
+                            "title": "7-8 Years",
+                            "data": "7-8_years"
+                        },
+                        {
+                            "id": "4",
+                            "title": "9-10 Years",
+                            "data": "9-10_years"
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "title": "Color",
+                    "type": "COLOR",
+                    "labels": [
+                        {
+                            "id": "1",
+                            "title": "White",
+                            "data": "white"
+                        },
+                        {
+                            "id": "2",
+                            "title": "Kelly Green",
+                            "data": "kelly_green"
+                        },
+                        {
+                            "id": "3",
+                            "title": "Burgundy",
+                            "data": "burgundy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

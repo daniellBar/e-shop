@@ -1,0 +1,121 @@
+.variant-form {
+    display: flex;
+    flex-direction: column;
+}
+
+// Dropdowns components
+.dropdowns-container {
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    .MuiFormControl-root {
+        margin-bottom: 30px;
+    }
+
+    label {
+        color: $clr4;
+        font-weight: 400;
+        font-family: Roboto;
+        letter-spacing: 0.38px;
+    }
+}
+
+.MuiInputBase-input {
+    font-family: montserrat, sans-serif !important;
+}
+
+.MuiInputBase-root {
+    background-image: linear-gradient(to top, #f7fcfb, #ffffff);
+}
+
+.MuiInputLabel-formControl {
+    top: -5px !important;
+}
+
+.MuiOutlinedInput-root {
+    border-radius: 0 !important;
+    height: 40px !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+// Quantity components
+.quantity-select {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    .quantity-title {
+        width: 60px;
+        font-size: 15px;
+        font-weight: 300;
+        line-height: 2.07;
+        letter-spacing: 0.38px;
+        text-align: right;
+        color: $clr4;
+        margin-right: 70px;
+        margin-left: 22px;
+    }
+}
+
+.quantity-input {
+    display: flex;
+    align-items: center;
+
+    .decrease-btn,
+    .increase-btn {
+        width: 17px;
+        height: 17px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: solid 1px #d5d5d5;
+        background-image: linear-gradient(to top, #f7fcfb, #ffffff);
+        cursor: pointer;
+    }
+
+    .custom-input {
+        width: 85px;
+        height: 40px;
+        border-radius: 5px;
+        font-family: Roboto;
+        border: solid 0.3px #c4c4c4;
+        background-image: linear-gradient(to top, #f7fcfb, #ffffff);
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 1.94;
+        letter-spacing: 0.4px;
+        color: $clr4;
+        margin: 0 9px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+
+.variant-form-submit-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    width: 290px;
+    height: 51px;
+    box-shadow: 0px 1px 3px 0 rgba(7, 7, 8, 0.46);
+    background-image: linear-gradient(to top, #31a893, #34ceb3);
+
+    .Add-to-cart {
+        font-size: 18px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.72;
+        letter-spacing: 0.45px;
+        text-align: right;
+        color: $clr1;
+    }
+}
+
